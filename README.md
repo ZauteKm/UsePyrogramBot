@@ -1,6 +1,9 @@
 # String-Session-Generator
 A Telegram bot 🤖 to Generate Pyrogram String Session.
 
+## Demo Bot:
+<a href="https://t.me/UsePyrogramBot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+
 ## Configs:
 - `API_HASH`
   - Get from [my.telegram.org](https://my.telegram.org) or [@UseTGzKBot](https://telegram.dog/UseTGzKbot).
