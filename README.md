@@ -2,15 +2,15 @@
 A Telegram bot 🤖 to Generate Pyrogram String Session.
 
 ## Configs:
-- API_HASH
+- `API_HASH`
   - Get from [my.telegram.org](https://my.telegram.org) or [@UseTGzKBot](https://telegram.dog/UseTGzKbot).
-- API_ID
+- `API_ID`
   - Get from [my.telegram.org](https://my.telegram.org) or [@UseTGzKBot](https://telegram.dog/UseTGzKbot).
-- API_KEY
+- `API_KEY`
   - Heroku API Key from [Here](https://dashboard.heroku.com/account).
-- APP_NAME
+- `APP_NAME`
   - Heroku App Name.
-- BOT_TOKEN
+- `BOT_TOKEN`
   - Telegram Bot Token from [here](https://t.me/BotFather).
 
 ## Deploy Now:
