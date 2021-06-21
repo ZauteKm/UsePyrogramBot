@@ -17,10 +17,10 @@ A Telegram bot 🤖 to Generate Pyrogram String Session.
   - Telegram Bot Token from [here](https://t.me/BotFather).
 
 ## Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InFoJosTel/String-Session-Generator/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZauteKm/String-Session-Generator/tree/master)
 
 ## Support Group:
-<a href="https://t.me/InFoJosTelGroup"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/iZaute/5"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ### Coded By
 - [Krishna Singhal](https://github.com/Krishna-Singhal)
