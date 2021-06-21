@@ -1,7 +1,7 @@
 {
     "name": "String-Session-Generator",
     "description": "A bot for Generating String Session of Telegram Account mostly for Userbots.",
-    "repository": "https://github.com/InFoJosTel/String-Session-Generator",
+    "repository": "https://github.com/ZauteKm/String-Session-Generator",
     "logo": "https://telegra.ph/file/7caed27c4d69b4fa379a2.png",
     "keywords": [
         "python",
