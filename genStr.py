@@ -45,7 +45,7 @@ PHONE_NUMBER_TEXT = (
     "Press /cancel to Cancel Task."
 )
 
-UPDATES_CHANNEL = os.environ.get('UPDATES_CHANNEL', 'ZauteKm')
+UPDATES_CHANNEL = os.environ.get('UPDATES_CHANNEL', 'tgbotsproject')
 
 @bot.on_message(filters.private & filters.command("start"))
 async def genStr(_, msg: Message):
