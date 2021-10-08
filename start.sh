@@ -1,13 +1,6 @@
 echo "Cloning Repo...."
-if [ -z $BRANCH ]
-then
-  echo "Cloning main branch...."
-  git clone https://github.com/ZauteKm/UsePyrogramBot /UsePyrogramBot
-else
-  echo "Cloning $BRANCH branch...."
-  git clone https://github.com/ZauteKm/UsePyrogramBot -b $BRANCH /UsePyrogramBot
-fi
+git clone https://github.com/ZauteKm/UsePyrogramBot.git /UsePyrogramBot
 cd /UsePyrogramBot
-pip3 install -U -r requirements.txt
+pip3 install -r requirements.txt
 echo "Starting Bot...."
 python3 bot.py
