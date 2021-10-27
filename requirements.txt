@@ -4,3 +4,5 @@ pyromod
 tgcrypto
 requests
 Pillow
+ffmpeg
+
